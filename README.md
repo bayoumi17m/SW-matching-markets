@@ -1,7 +1,7 @@
 # README
 Optimizing Rankings for Recommendation in Matching Markets
 
-This repository contains various recommendation algorithms for two-sided or matching markets. The code accompanies the paper "Optimizing Rankings for Recommendation in Matching Markets" [WWW]() [arXiv]() where we firstly define the matching market, secondly show the underperformance of other methods, and propose a novel optimization setup to tackle this problem along with societal considerations.
+This repository contains various recommendation algorithms for two-sided or matching markets. The code accompanies the paper "Optimizing Rankings for Recommendation in Matching Markets" [[WWW]]() [[arXiv]]() where we firstly define the matching market, secondly show the underperformance of other methods, and propose a novel optimization setup to tackle this problem along with societal considerations.
 
 If you find any module of this repository helpful for your own research, please consider citing the below WWW'22 paper. Thanks!
 
