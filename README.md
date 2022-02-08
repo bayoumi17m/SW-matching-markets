@@ -1,6 +1,19 @@
 # README
 Optimizing Rankings for Recommendation in Matching Markets
 
+This repository contains various recommendation algorithms for two-sided or matching markets. The code accompanies the paper "Optimizing Rankings for Recommendation in Matching Markets" [WWW]() [arXiv]() where we firstly define the matching market, secondly show the underperformance of other methods, and propose a novel optimization setup to tackle this problem along with societal considerations.
+
+If you find any module of this repository helpful for your own research, please consider citing the below WWW'22 paper. Thanks!
+
+```bibtex
+@inproceedings{SuBayoumiJoachims22,
+  author = {Yi Su, Magd Bayoumi, and Thorsten Joachims},
+  title = {Optimizing Rankings for Recommendation in Matching Markets},
+  booktitle = {Proceedings of The Web Conference (WWW)},
+  year = {2022}
+}
+```
+
 ## Accessing networking dataset
 The networking dataset relevances can be found in `data/networking/networking_relevances.pkl`. If you would like the full imputed table of information then this is accessible [here](https://drive.google.com/file/d/1sdHNMRKCYnV9yzEoD5sWS6EpCOcuY7hZ/view?usp=sharing). Additionally, we provide a dataset README within `data/networking/README.md`
 
