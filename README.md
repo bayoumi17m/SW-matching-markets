@@ -1,6 +1,9 @@
 # README
 Optimizing Rankings for Recommendation in Matching Markets
 
+## Accessing networking dataset
+The networking dataset relevances can be found in `data/networking/networking_relevances.pkl`. If you would like the full imputed table of information then this is accessible [here](https://drive.google.com/file/d/1sdHNMRKCYnV9yzEoD5sWS6EpCOcuY7hZ/view?usp=sharing). Additionally, we provide a dataset README within `data/networking/README.md`
+
 ## Installation
 All packages required can be installed via poetry, conda, or pip. Any of the following commands will work:
 
